@@ -1,4 +1,4 @@
-# Predictive Analysis of Hotel Booking Data[^1^][1]
+# Predictive Analysis of Hotel Booking Data
 
 This project aims to apply data analytics techniques to a hotel booking dataset and provide insights and predictions for both customers and the hotel industry. The dataset contains booking information for a city hotel and a resort hotel over the period 2015-2017, with over 100k records and 32 features.
 
